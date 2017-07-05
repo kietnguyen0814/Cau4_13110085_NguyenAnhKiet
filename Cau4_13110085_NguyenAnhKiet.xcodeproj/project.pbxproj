@@ -14,6 +14,7 @@
 		2EC00DD61F0CC25700CF0AC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EC00DD41F0CC25700CF0AC9 /* LaunchScreen.storyboard */; };
 		2EC00DE11F0CC25700CF0AC9 /* Cau4_13110085_NguyenAnhKietTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC00DE01F0CC25700CF0AC9 /* Cau4_13110085_NguyenAnhKietTests.swift */; };
 		2EC00DEC1F0CC25700CF0AC9 /* Cau4_13110085_NguyenAnhKietUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC00DEB1F0CC25700CF0AC9 /* Cau4_13110085_NguyenAnhKietUITests.swift */; };
+		2EC00DFA1F0CC26800CF0AC9 /* Cau4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC00DF91F0CC26800CF0AC9 /* Cau4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2EC00DE71F0CC25700CF0AC9 /* Cau4_13110085_NguyenAnhKietUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Cau4_13110085_NguyenAnhKietUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EC00DEB1F0CC25700CF0AC9 /* Cau4_13110085_NguyenAnhKietUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cau4_13110085_NguyenAnhKietUITests.swift; sourceTree = "<group>"; };
 		2EC00DED1F0CC25700CF0AC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EC00DF91F0CC26800CF0AC9 /* Cau4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cau4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2EC00DD21F0CC25700CF0AC9 /* Assets.xcassets */,
 				2EC00DD41F0CC25700CF0AC9 /* LaunchScreen.storyboard */,
 				2EC00DD71F0CC25700CF0AC9 /* Info.plist */,
+				2EC00DF91F0CC26800CF0AC9 /* Cau4.swift */,
 			);
 			path = Cau4_13110085_NguyenAnhKiet;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EC00DCE1F0CC25700CF0AC9 /* ViewController.swift in Sources */,
+				2EC00DFA1F0CC26800CF0AC9 /* Cau4.swift in Sources */,
 				2EC00DCC1F0CC25700CF0AC9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
